@@ -107,7 +107,7 @@ QWidget {
       <string notr="true"/>
      </property>
      <property name="text">
-      <string>钢丝绳漏磁检测系统V1.1</string>
+      <string>钢丝绳电磁检测系统V1.1</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
